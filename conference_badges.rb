@@ -8,3 +8,4 @@ def batch_badge_creator(speakers)
   badges.push("Hello, my name is #{badge}.")
   end
   return badges
+end
